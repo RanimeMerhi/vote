@@ -50,7 +50,6 @@ pymongo==4.7.2
 pyparsing==3.0.9
 pyspark==3.5.1
 python-dateutil==2.8.2
-pywin32==305
 pyzmq==24.0.1
 redis==5.0.4
 requests==2.32.3
